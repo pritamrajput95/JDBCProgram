@@ -3,7 +3,7 @@ package com.test;
 import java.sql.*;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-//pritam
+//
 public class CreateTableStatment {
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 

@@ -11,7 +11,7 @@ public class InsertTableStatment {
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 
 		// 1.statement object : static & dynamic `
-		
+		//
 		
 
 		// step to JDBC connection
